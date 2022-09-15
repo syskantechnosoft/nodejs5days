@@ -1,0 +1,1 @@
+This is a simple text file. This file will be used by the streams module of nodejs.
