@@ -1,0 +1,3 @@
+cls
+dir
+mkdir child
